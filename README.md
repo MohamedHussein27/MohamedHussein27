@@ -2,9 +2,10 @@
 
 # Welcome to Mohamed Hussein's profile! 👋
 
-<h2 align="center">
-  Digital Electronics Engineer
-</h2>
+<div align="center">
+  <img src="https://github.com/your-github-username/your-repo-name/blob/main/readme_image.gif" alt="Electronics Engineer">
+</div>
+
 <h3 align="center">
   Passionate about Digital IC Design
 </h3>
