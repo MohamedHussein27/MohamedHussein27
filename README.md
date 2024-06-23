@@ -1,7 +1,7 @@
 # Welcome to Mohamed Hussein's profile! 👋
 
 <div align="center">
-  <img src="https://github.com/MohamedHussein27/My_Profile/blob/main/readme_image.gif" alt="Digital Electronics Engineer">
+  <img src="https://github.com/MohamedHussein27/My_Profile/blob/main/Digital_Electronics_Engineer.gif" alt="Digital Electronics Engineer">
 </div>
 
 <h2 align="center">
