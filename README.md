@@ -2,37 +2,12 @@
 
 # Welcome to Mohamed Hussein's profile! 👋
 
-<div align="center">
-  <h2 id="typing-text"></h2>
-</div>
-
-<script>
-const messages = ["Digital Electronics Engineer", "Passionate about Digital IC Design"];
-let index = 0;
-let charIndex = 0;
-let currentMessage = "";
-let interval;
-
-function typeMessage() {
-    if (charIndex < messages[index].length) {
-        currentMessage += messages[index].charAt(charIndex);
-        document.getElementById("typing-text").innerText = currentMessage;
-        charIndex++;
-    } else {
-        clearInterval(interval);
-        setTimeout(() => {
-            currentMessage = "";
-            charIndex = 0;
-            index = (index + 1) % messages.length;
-            interval = setInterval(typeMessage, 100);
-        }, 2000);
-    }
-}
-
-document.addEventListener("DOMContentLoaded", () => {
-    interval = setInterval(typeMessage, 100);
-});
-</script>
+<h2 align="center">
+  Digital Electronics Engineer
+</h2>
+<h3 align="center">
+  Passionate about Digital IC Design
+</h3>
 
 ### I'm an Electronics and Communication Engineer Student @ Ain Shams University
 ### I'm constantly learning and exploring new technologies to improve my skills.
@@ -57,7 +32,4 @@ document.addEventListener("DOMContentLoaded", () => {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Profile Views
-<div style="width: 100px; height: 100px; background-color: red; display: flex; align-items: center; justify-content: center; color: white;">
-  <p style="font-size: 20px;">PROFILE VIEWS</p>
-  <p style="font-size: 30px;">150</p>
-</div>
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-repo-name)
