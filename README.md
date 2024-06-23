@@ -13,7 +13,7 @@
 ### I'm constantly learning and exploring new technologies to improve my skills.
 
 ### Connect with Me :
-[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Hussein-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/-Mohamed%20Hussein-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hussein-274337231)
 
 ### Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++)
@@ -29,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHussein27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Profile Views
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-repo-name)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MohamedHussein27.MohamedHussein27)
