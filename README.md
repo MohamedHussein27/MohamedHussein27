@@ -8,8 +8,8 @@
                                                                                                                                                                                                                                                                                    ﴿ وَمَا أُوتِيتُمْ مِنَ الْعِلْمِ إِلَّا قَلِيلًا ﴾
 </h2>
 
-### -I'm an Electronics and Communication Engineer undergraduate @ Ain Shams University
-### -Passionate about Digital IC Design
+## -I'm an Electronics and Communication Engineer undergraduate @ Ain Shams University
+## -Passionate about Digital IC Design
 
 ### My LinkedIn Profile :
 [![LinkedIn](https://img.shields.io/badge/-Mohamed%20Hussein-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hussein-274337231)
