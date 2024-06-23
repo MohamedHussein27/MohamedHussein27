@@ -4,12 +4,12 @@
   <img src="https://github.com/MohamedHussein27/My_Profile/blob/main/readme_image.gif" alt="Digital Electronics Engineer">
 </div>
 
-<h3 align="center">
-  Passionate about Digital IC Design
-</h3>
+<h2 align="center">
+                                                                                                                                                                                                                                                                                   ﴿ وَمَا أُوتِيتُمْ مِنَ الْعِلْمِ إِلَّا قَلِيلًا ﴾
+</h2>
 
-### I'm an Electronics and Communication Engineer undergraduate @ Ain Shams University
-
+### -I'm an Electronics and Communication Engineer undergraduate @ Ain Shams University
+### -Passionate about Digital IC Design
 
 ### My LinkedIn Profile :
 [![LinkedIn](https://img.shields.io/badge/-Mohamed%20Hussein-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hussein-274337231)
