@@ -3,7 +3,7 @@
 # Welcome to Mohamed Hussein's profile! 👋
 
 <div align="center">
-  <img src="https://github.com/your-github-username/your-repo-name/blob/main/readme_image.gif" alt="Electronics Engineer">
+  <img src="https://github.com/MohamedHussein27/My_Profile/blob/main/readme_image.gif" alt="Digital Electronics Engineer">
 </div>
 
 <h3 align="center">
